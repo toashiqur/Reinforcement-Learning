@@ -7,5 +7,9 @@ This project programs an agent to run on a grid-world using Q-Learning. The worl
 Pseudocode from Sutton & Barto, Reinforcement Learning: An introduction, 1998, Figure 6.12:
 ![]({{site.baseurl}}/assets/images/pseudocode.png)
 
-Techonology Used:
-Python, Numpy, Matplotlib, Pandas, Prettytable
+## Techonology Used:
+* Python
+* Numpy
+* Matplotlib
+* Pandas
+* Prettytable
